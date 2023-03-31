@@ -14,6 +14,7 @@ FIND_PATH(GLEW_INCLUDE_DIR NAMES GL/glew.h
   ${PROJECT_SOURCE_DIR}/libraries/glew/include
   ENV CPATH
   /usr/include
+  /opt/homebrew/include
   /usr/local/include
   /opt/local/include
   NO_DEFAULT_PATH
@@ -42,6 +43,7 @@ FIND_LIBRARY(GLEW_LIBRARIES NAMES
   /usr/lib
   /usr/local/lib
   /opt/local/lib
+  /opt/homebrew/lib
   NO_DEFAULT_PATH
 )
 

@@ -1,6 +1,6 @@
 # source
-git /extensions/OpenGLRenderer         https://github.com/OpenEngineDK/extensions-OpenGLRenderer.git
-git-dev /extensions/OpenGLRenderer	 git@github.com:OpenEngineDK/extensions-OpenGLRenderer.git
+git /extensions/OpenGLRenderer         https://github.com/OpenEngineDK/extensions-OpenGLRenderer.git
+git-dev /extensions/OpenGLRenderer	 git@github.com:OpenEngineDK/extensions-OpenGLRenderer.git
 
 # win lib
 win32 /libraries http://openengine.dk/data/libraries/glew-win32.zip
